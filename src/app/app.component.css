@@ -6,3 +6,11 @@
     margin: auto;
     padding: 30px;
 }
+
+.trial{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+}

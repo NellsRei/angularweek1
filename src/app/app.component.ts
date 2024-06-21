@@ -16,6 +16,7 @@ import { CommonModule } from '@angular/common';
 export class AppComponent {
   title = 'assessmentAngular';
   text:string = ''
+  
   // random:boolean
   // randomcolor(){
   //   if(random = "true"){
